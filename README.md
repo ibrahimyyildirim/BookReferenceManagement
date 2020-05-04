@@ -7,7 +7,7 @@ Kitapların referanslarını kontrol ve takibini kolaylaştırmaktır. Kitap ekl
 Nesneleri Entity Beans teknolojisinin sağladığı fayda ile kolaylıkla veritabanı ile ilişkilendiriyoruz.
 #### 3. Ekranlar ve temel bileşenleri
 #### 3.1	Kitap Ekleme Ekranı 
-•	 Ekranda veritabanına erişim JDBC teknolojisi kullanılarak oluşturulmuştur.
+•	Ekranda veritabanına erişim JDBC teknolojisi kullanılarak oluşturulmuştur.
 •	Text alanlarından alınan girişler veritabanında tutularak aynı anda tabloya aktarılır.<br>
 ![1](https://github.com/ibrahimyyildirim/BookReferenceManagement/blob/master/img/1.png)<br>
 #### 3.2	Referans Ekleme Ekranı
