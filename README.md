@@ -15,7 +15,7 @@ Nesneleri Entity Beans teknolojisinin sağladığı fayda ile kolaylıkla verita
 •	Veriler veritabanında ki referans türlerine göre tablolara kaydedilir ve aynı anda jTable ekranına aktarılır.<br>
 ![2](https://github.com/ibrahimyyildirim/BookReferenceManagement/blob/master/img/2.png)<br>
 #### 3.3	Referansları Gör (Sorgulama) Ekranı 
-•	Kitaplara ait isteğimiz referans türünü tek bir tür veya daha fazla tür şeklinde görebilme.
+•	Kitaplara ait isteğimiz referans türünü tek bir tür veya daha fazla tür şeklinde görebilme.<br>
 •	Referans bazında toplu olarak sorgulama yapabilme.<br>
 ![3](https://github.com/ibrahimyyildirim/BookReferenceManagement/blob/master/img/3.png)<br>
 #### 4. Çapraz İşlemler 
