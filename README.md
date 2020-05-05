@@ -11,7 +11,7 @@ Nesneleri Entity Beans teknolojisinin sağladığı fayda ile kolaylıkla verita
 •	Text alanlarından alınan girişler veritabanında tutularak aynı anda tabloya aktarılır.<br>
 ![1](https://github.com/ibrahimyyildirim/BookReferenceManagement/blob/master/img/1.png)<br>
 #### 3.2	Referans Ekleme Ekranı
-•	Ekranda veritabanına erişim Entity Beans teknolojisi kullanılarak sağlanmıştır.
+•	Ekranda veritabanına erişim Entity Beans teknolojisi kullanılarak sağlanmıştır.<br>
 •	Veriler veritabanında ki referans türlerine göre tablolara kaydedilir ve aynı anda jTable ekranına aktarılır.<br>
 ![2](https://github.com/ibrahimyyildirim/BookReferenceManagement/blob/master/img/2.png)<br>
 #### 3.3	Referansları Gör (Sorgulama) Ekranı 
